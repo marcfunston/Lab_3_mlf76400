@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab_3_mlf76400</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="question_ucm0">UCM is located in \nWarrensburg</string>
+    <string name="question_ucm1">UCM is located in \nSt Louis</string>
+    <string name="question_ucm2">UCM colors are \nBlack and Red</string>
+    <string name="question_ucm3">UCM colors are \nGreen and Gold</string>
+    <string name="question_ucm4">Android is fun to program!</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
